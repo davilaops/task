@@ -46,3 +46,6 @@ Este projeto é uma ótima introdução prática a:
 - Manipulação de eventos no DOM
 - Persistência de dados no navegador
 - Boas práticas de design responsivo e visual atrativo
+
+## 📷 Preview Website
+![Image](https://github.com/user-attachments/assets/8e3b11c6-c602-4d6a-85bf-545a3c48e2b8)
